@@ -1,6 +1,10 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D2B24,55:123B32,100:1B5246&height=170&text=ANAS%20ABDIWAHID&fontSize=52&fontColor=FFFFFF&fontAlign=50&fontAlignY=42&desc=Full%20Stack%20Developer%20%20%7C%20%20PHP%20%26%20JavaScript%20%20%7C%20%20Real-time%20Apps%20%20%7C%20%20Multimedia%20%26%20IoT&descSize=15&descAlign=50&descAlignY=72&stroke=D6B66C&strokeWidth=1" alt="Anas Abdiwahid" width="100%" />
+  <img src="assets/banner.jpg" alt="Anas Abdiwahid" width="100%" />
+</p>
+
+<h1 align="center">Anas Abdiwahid</h1>
+<p align="center"><b>Full Stack Developer &nbsp;|&nbsp; PHP & JavaScript &nbsp;|&nbsp; Real-time Apps &nbsp;|&nbsp; Multimedia & IoT</b>
 </p>
 
 <p align="center">
@@ -159,8 +163,4 @@ const anas = {
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=anasabdiwahid&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7" alt="GitHub trophies" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:D6B66C,50:123B32,100:0D2B24&height=100&section=footer" alt="" width="100%" />
 </p>
