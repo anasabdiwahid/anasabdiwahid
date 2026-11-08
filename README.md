@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="assets/banner.jpg" alt="Anas Abdiwahid" width="100%" />
+  <img src="assets/banner.jpg" alt="Anas Abdiwahid" width="33%" />
 </p>
 
 <h1 align="center">Anas Abdiwahid</h1>
