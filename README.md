@@ -13,51 +13,59 @@
 
 <table>
 <tr>
-<td width="58%" valign="top">
+<td width="36%" valign="top" align="center">
+
+<img src="assets/anas.jpg" alt="Anas Abdiwahid" width="100%" />
+
+<h3>Anas Abdiwahid</h3>
+<sub>📍 Mogadishu, Somalia</sub>
+<br /><br />
+<img src="https://img.shields.io/badge/Full_Stack-Developer-123B32?style=flat-square&labelColor=0D2B24" alt="Full Stack Developer" />
+<img src="https://img.shields.io/badge/Multimedia-Specialist-D6B66C?style=flat-square&labelColor=0D2B24" alt="Multimedia Specialist" />
+<img src="https://img.shields.io/badge/IoT-Projects-1B5246?style=flat-square&labelColor=0D2B24" alt="IoT Projects" />
+<br /><br />
+<img src="https://komarev.com/ghpvc/?username=anasabdiwahid&color=123B32&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
+
+</td>
+<td width="64%" valign="top">
 
 ```javascript
 const anas = {
-    name: "Anas Abdiwahid Hussein Warsame",
-    role: "Full Stack Developer & Multimedia Specialist",
-    focus: "IoT projects",
+    name:     "Anas Abdiwahid Hussein Warsame",
+    role:     "Full Stack Developer & Multimedia Specialist",
+    location: "Mogadishu, Somalia 🇸🇴",
+    focus:    ["Management systems", "Real-time apps", "IoT"],
 
-    building: [
+    currentlyBuilding: [
         "SIMDA — Sharia-compliant microfinance platform",
-        "Management systems for real organisations",
     ],
 
     shipped: [
         "A/N Chat — messaging, voice & video calls",
-        "HomeHub — property management (Mogadishu)",
+        "HomeHub — property management",
         "Smart Exam Attendance System",
+        "Barwaqo Bank • Maraayn Management",
     ],
 
     tech: {
-        frontend: ["HTML", "CSS", "JavaScript", "TypeScript", "Tailwind", "Bootstrap"],
-        backend:  ["PHP", "MySQL"],
+        frontend: ["HTML", "CSS", "JS", "TS", "Tailwind", "Bootstrap"],
+        backend:  ["PHP", "MySQL", "Node.js"],
         realtime: ["WebSockets", "WebRTC", "PWA"],
     },
 
-    portfolio: "https://anazabdiwahid.netlify.app",
+    portfolio: "anazabdiwahid.netlify.app",
 };
 ```
 
-</td>
-<td width="42%" valign="top" align="center">
-
-<img src="https://github-readme-quotes-bay.vercel.app/quote?theme=dark&animation=grow_out_in&layout=default&font=default&quoteType=programming" alt="Programming quote" width="100%" />
-
-<br /><br />
-
-> *"Build tools people actually use — then make them simple."*
-
-<br />
-
-<img src="https://komarev.com/ghpvc/?username=anasabdiwahid&color=123B32&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
+> 💡 *"Build tools people actually use — then make them simple."*
 
 </td>
 </tr>
 </table>
+
+<p align="center">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=dark&animation=grow_out_in&layout=default&font=default&quoteType=programming" alt="Programming quote" />
+</p>
 
 ## 📬 Connect With Me
 
