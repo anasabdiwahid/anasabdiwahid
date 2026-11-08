@@ -5,11 +5,11 @@
 
 <p align="center">
   <a href="https://anazabdiwahid.netlify.app/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=D6B66C&center=true&vCenter=true&width=640&lines=Hi%2C+I'm+Anas+Abdiwahid+%F0%9F%91%8B;I+build+complete+management+systems;Microfinance+%E2%80%A2+Property+%E2%80%A2+Attendance+%E2%80%A2+Banking;Real-time+chat+%26+video+with+WebRTC" alt="Typing intro" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=D6B66C&center=true&vCenter=true&width=640&lines=Hi%2C+I'm+Anas+Abdiwahid;I+build+complete+management+systems;Microfinance+%E2%80%A2+Property+%E2%80%A2+Attendance+%E2%80%A2+Banking;Real-time+chat+%26+video+with+WebRTC" alt="Typing intro" />
   </a>
 </p>
 
-## 🎯 About Me
+## <img src="https://api.iconify.design/tabler/user-code.svg?color=%23D6B66C" width="26" height="26" align="top" alt="" /> About Me
 
 <table>
 <tr>
@@ -18,7 +18,7 @@
 <img src="assets/anas.jpg" alt="Anas Abdiwahid" width="100%" />
 
 <h3>Anas Abdiwahid</h3>
-<sub>📍 Mogadishu, Somalia</sub>
+<sub><img src="https://api.iconify.design/tabler/map-pin.svg?color=%23D6B66C" width="14" height="14" align="top" alt="" /> Mogadishu, Somalia</sub>
 <br /><br />
 <img src="https://img.shields.io/badge/Full_Stack-Developer-123B32?style=flat-square&labelColor=0D2B24" alt="Full Stack Developer" />
 <img src="https://img.shields.io/badge/Multimedia-Specialist-D6B66C?style=flat-square&labelColor=0D2B24" alt="Multimedia Specialist" />
@@ -33,7 +33,7 @@
 const anas = {
     name:     "Anas Abdiwahid Hussein Warsame",
     role:     "Full Stack Developer & Multimedia Specialist",
-    location: "Mogadishu, Somalia 🇸🇴",
+    location: "Mogadishu, Somalia",
     focus:    ["Management systems", "Real-time apps", "IoT"],
 
     currentlyBuilding: [
@@ -57,7 +57,7 @@ const anas = {
 };
 ```
 
-> 💡 *"Build tools people actually use — then make them simple."*
+> *"Build tools people actually use — then make them simple."*
 
 </td>
 </tr>
@@ -67,7 +67,7 @@ const anas = {
   <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=dark&animation=grow_out_in&layout=default&font=default&quoteType=programming" alt="Programming quote" />
 </p>
 
-## 📬 Connect With Me
+## <img src="https://api.iconify.design/tabler/link.svg?color=%23D6B66C" width="26" height="26" align="top" alt="" /> Connect With Me
 
 <p align="center">
   <a href="https://anazabdiwahid.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-123B32?style=for-the-badge&logo=netlify&logoColor=D6B66C" alt="Portfolio" /></a>
@@ -75,7 +75,7 @@ const anas = {
   <a href="https://github.com/anasabdiwahid?tab=repositories"><img src="https://img.shields.io/badge/30%2B_Repositories-D6B66C?style=for-the-badge&logo=git&logoColor=0D2B24" alt="Repositories" /></a>
 </p>
 
-## 🛠️ Tech Stack
+## <img src="https://api.iconify.design/tabler/tools.svg?color=%23D6B66C" width="26" height="26" align="top" alt="" /> Tech Stack
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -94,48 +94,48 @@ const anas = {
   <img src="https://img.shields.io/badge/IOT-0D2B24?style=for-the-badge&logo=espressif&logoColor=D6B66C" alt="IoT" />
 </p>
 
-## 🚀 Featured Projects
+## <img src="https://api.iconify.design/tabler/rocket.svg?color=%23D6B66C" width="26" height="26" align="top" alt="" /> Featured Projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🏦 <a href="https://github.com/anasabdiwahid/SIMDA">SIMDA</a></h3>
+      <h3><img src="https://api.iconify.design/tabler/building-bank.svg?color=%23D6B66C" width="22" height="22" align="top" alt="" /> <a href="https://github.com/anasabdiwahid/SIMDA">SIMDA</a></h3>
       <p>Somali Islamic Microfinance Development Association — Sharia-compliant loans and Murabaha, Branch Manager approvals, repayments with emailed receipts, credit scores and PAR30.</p>
       <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
     </td>
     <td width="50%" valign="top">
-      <h3>💬 <a href="https://github.com/anasabdiwahid/AN-Chat">A/N Chat</a></h3>
+      <h3><img src="https://api.iconify.design/tabler/messages.svg?color=%23D6B66C" width="22" height="22" align="top" alt="" /> <a href="https://github.com/anasabdiwahid/AN-Chat">A/N Chat</a></h3>
       <p>Real-time messaging with voice and video calling — PHP, MySQL, WebSockets and WebRTC, installable as a PWA.</p>
       <img src="https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white" alt="WebRTC" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🏠 <a href="https://github.com/anasabdiwahid/HomeHub-Property-Management">HomeHub</a></h3>
+      <h3><img src="https://api.iconify.design/tabler/home.svg?color=%23D6B66C" width="22" height="22" align="top" alt="" /> <a href="https://github.com/anasabdiwahid/HomeHub-Property-Management">HomeHub</a></h3>
       <p>Property management system for Mogadishu, Somalia — PHP 8, MySQL and Bootstrap.</p>
       <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" /> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap" />
     </td>
     <td width="50%" valign="top">
-      <h3>📝 <a href="https://github.com/anasabdiwahid/Php-Attendance">Smart Exam Attendance</a></h3>
+      <h3><img src="https://api.iconify.design/tabler/clipboard-check.svg?color=%23D6B66C" width="22" height="22" align="top" alt="" /> <a href="https://github.com/anasabdiwahid/Php-Attendance">Smart Exam Attendance</a></h3>
       <p>Examination attendance management — PHP, MySQL and Tailwind CSS.</p>
       <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" /> <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>📊 <a href="https://github.com/anasabdiwahid/Maraayn-Management-System">Maraayn Management System</a></h3>
+      <h3><img src="https://api.iconify.design/tabler/layout-dashboard.svg?color=%23D6B66C" width="22" height="22" align="top" alt="" /> <a href="https://github.com/anasabdiwahid/Maraayn-Management-System">Maraayn Management System</a></h3>
       <p>Management system built with TypeScript.</p>
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
     </td>
     <td width="50%" valign="top">
-      <h3>🏛️ <a href="https://github.com/anasabdiwahid/BARWAQO-BANK">Barwaqo Bank</a></h3>
+      <h3><img src="https://api.iconify.design/tabler/credit-card.svg?color=%23D6B66C" width="22" height="22" align="top" alt="" /> <a href="https://github.com/anasabdiwahid/BARWAQO-BANK">Barwaqo Bank</a></h3>
       <p>Banking web application built with JavaScript.</p>
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
     </td>
   </tr>
 </table>
 
-## 📊 GitHub Analytics
+## <img src="https://api.iconify.design/tabler/chart-bar.svg?color=%23D6B66C" width="26" height="26" align="top" alt="" /> GitHub Analytics
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anasabdiwahid&theme=github_dark" alt="Profile details" width="100%" />
@@ -155,7 +155,7 @@ const anas = {
   <img src="https://streak-stats.demolab.com?user=anasabdiwahid&theme=github-dark-blue&hide_border=true&background=0D1117&ring=D6B66C&fire=D6B66C&currStreakLabel=D6B66C" alt="GitHub streak" />
 </p>
 
-## 🏆 GitHub Trophies
+## <img src="https://api.iconify.design/tabler/trophy.svg?color=%23D6B66C" width="26" height="26" align="top" alt="" /> GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=anasabdiwahid&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7" alt="GitHub trophies" />
