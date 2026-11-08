@@ -1,123 +1,158 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D2B24,50:123B32,100:D6B66C&height=190&section=header&text=Anas%20Abdiwahid&fontSize=46&fontColor=FFFFFF&fontAlignY=36&desc=Full%20Stack%20Developer%20%E2%80%A2%20Multimedia%20%26%20IoT&descSize=17&descAlignY=58" alt="Anas Abdiwahid" width="100%" />
-
-<a href="https://anazabdiwahid.netlify.app/">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3200&pause=900&color=D6B66C&center=true&vCenter=true&width=620&lines=Full+Stack+Developer+%E2%80%94+PHP+%26+JavaScript;Building+management+systems+for+Somali+businesses;Real-time+apps+with+WebSockets+%26+WebRTC;Multimedia+%26+IoT+projects" alt="Typing intro" />
-</a>
-
-<p>
-  <a href="https://anazabdiwahid.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-anazabdiwahid.netlify.app-123B32?style=for-the-badge&logo=netlify&logoColor=D6B66C" alt="Portfolio" /></a>
-  <a href="https://github.com/anasabdiwahid?tab=repositories"><img src="https://img.shields.io/badge/Projects-30%2B_repositories-D6B66C?style=for-the-badge&logo=github&logoColor=0D2B24" alt="Repositories" /></a>
+<!-- Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D2B24,55:123B32,100:1B5246&height=170&text=ANAS%20ABDIWAHID&fontSize=52&fontColor=FFFFFF&fontAlign=50&fontAlignY=42&desc=Full%20Stack%20Developer%20%20%7C%20%20PHP%20%26%20JavaScript%20%20%7C%20%20Real-time%20Apps%20%20%7C%20%20Multimedia%20%26%20IoT&descSize=15&descAlign=50&descAlignY=72&stroke=D6B66C&strokeWidth=1" alt="Anas Abdiwahid" width="100%" />
 </p>
-
-</div>
-
----
-
-### 👋 About me
-
-I'm **Anas Abdiwahid Hussein Warsame**, a full stack developer and multimedia specialist working on IoT projects.
-I build complete web systems end to end — database, back end, and a clean, fast interface — with a focus on tools that real organisations use every day.
-
-- 🏦 Building **SIMDA**, a Sharia-compliant microfinance platform: loans, Murabaha, approvals, repayments and receipts
-- 💬 Built **A/N Chat**, real-time messaging with voice and video calls (WebSockets + WebRTC, installable as a PWA)
-- 🏠 Built **HomeHub**, property management for Mogadishu
-- 🎬 Multimedia and 🔌 IoT projects alongside web development
-
----
-
-### 🛠️ Tech stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <br />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-  <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white" alt="WebSockets" />
-  <img src="https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white" alt="WebRTC" />
-  <img src="https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white" alt="PWA" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/IoT-0D2B24?style=for-the-badge&logo=arduino&logoColor=D6B66C" alt="IoT" />
+  <a href="https://anazabdiwahid.netlify.app/">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=D6B66C&center=true&vCenter=true&width=640&lines=Hi%2C+I'm+Anas+Abdiwahid+%F0%9F%91%8B;I+build+complete+management+systems;Microfinance+%E2%80%A2+Property+%E2%80%A2+Attendance+%E2%80%A2+Banking;Real-time+chat+%26+video+with+WebRTC" alt="Typing intro" />
+  </a>
 </p>
 
----
+## 🎯 About Me
 
-### 🚀 Featured projects
+<table>
+<tr>
+<td width="58%" valign="top">
+
+```javascript
+const anas = {
+    name: "Anas Abdiwahid Hussein Warsame",
+    role: "Full Stack Developer & Multimedia Specialist",
+    focus: "IoT projects",
+
+    building: [
+        "SIMDA — Sharia-compliant microfinance platform",
+        "Management systems for real organisations",
+    ],
+
+    shipped: [
+        "A/N Chat — messaging, voice & video calls",
+        "HomeHub — property management (Mogadishu)",
+        "Smart Exam Attendance System",
+    ],
+
+    tech: {
+        frontend: ["HTML", "CSS", "JavaScript", "TypeScript", "Tailwind", "Bootstrap"],
+        backend:  ["PHP", "MySQL"],
+        realtime: ["WebSockets", "WebRTC", "PWA"],
+    },
+
+    portfolio: "https://anazabdiwahid.netlify.app",
+};
+```
+
+</td>
+<td width="42%" valign="top" align="center">
+
+<img src="https://github-readme-quotes-bay.vercel.app/quote?theme=dark&animation=grow_out_in&layout=default&font=default&quoteType=programming" alt="Programming quote" width="100%" />
+
+<br /><br />
+
+> *"Build tools people actually use — then make them simple."*
+
+<br />
+
+<img src="https://komarev.com/ghpvc/?username=anasabdiwahid&color=123B32&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
+
+</td>
+</tr>
+</table>
+
+## 📬 Connect With Me
+
+<p align="center">
+  <a href="https://anazabdiwahid.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-123B32?style=for-the-badge&logo=netlify&logoColor=D6B66C" alt="Portfolio" /></a>
+  <a href="https://github.com/anasabdiwahid"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://github.com/anasabdiwahid?tab=repositories"><img src="https://img.shields.io/badge/30%2B_Repositories-D6B66C?style=for-the-badge&logo=git&logoColor=0D2B24" alt="Repositories" /></a>
+</p>
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=php,mysql,js,ts,html,css,tailwind,bootstrap,nodejs,git,github,vscode&perline=12" alt="Tech stack" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/WEBSOCKETS-010101?style=for-the-badge&logo=socketdotio&logoColor=white" alt="WebSockets" />
+  <img src="https://img.shields.io/badge/WEBRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white" alt="WebRTC" />
+  <img src="https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white" alt="PWA" />
+  <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white" alt="XAMPP" />
+  <img src="https://img.shields.io/badge/APACHE-D22128?style=for-the-badge&logo=apache&logoColor=white" alt="Apache" />
+  <img src="https://img.shields.io/badge/NETLIFY-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" />
+  <img src="https://img.shields.io/badge/MULTIMEDIA-D6B66C?style=for-the-badge&logo=adobecreativecloud&logoColor=0D2B24" alt="Multimedia" />
+  <img src="https://img.shields.io/badge/IOT-0D2B24?style=for-the-badge&logo=espressif&logoColor=D6B66C" alt="IoT" />
+</p>
+
+## 🚀 Featured Projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4>🏦 <a href="https://github.com/anasabdiwahid/SIMDA">SIMDA</a></h4>
-      <p>Somali Islamic Microfinance Development Association — Sharia-compliant loan management: cash loans and Murabaha, Branch Manager approvals, repayments, emailed receipts, credit scores and PAR30.</p>
-      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+      <h3>🏦 <a href="https://github.com/anasabdiwahid/SIMDA">SIMDA</a></h3>
+      <p>Somali Islamic Microfinance Development Association — Sharia-compliant loans and Murabaha, Branch Manager approvals, repayments with emailed receipts, credit scores and PAR30.</p>
+      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
     </td>
     <td width="50%" valign="top">
-      <h4>💬 <a href="https://github.com/anasabdiwahid/AN-Chat">A/N Chat</a></h4>
-      <p>Real-time messaging with voice and video calling, built with PHP, MySQL, WebSockets and WebRTC, installable as a PWA.</p>
-      <img src="https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white" alt="WebRTC" />
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+      <h3>💬 <a href="https://github.com/anasabdiwahid/AN-Chat">A/N Chat</a></h3>
+      <p>Real-time messaging with voice and video calling — PHP, MySQL, WebSockets and WebRTC, installable as a PWA.</p>
+      <img src="https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white" alt="WebRTC" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>🏠 <a href="https://github.com/anasabdiwahid/HomeHub-Property-Management">HomeHub</a></h4>
-      <p>Property management system for Mogadishu, Somalia, built with PHP 8, MySQL and Bootstrap.</p>
-      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
-      <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+      <h3>🏠 <a href="https://github.com/anasabdiwahid/HomeHub-Property-Management">HomeHub</a></h3>
+      <p>Property management system for Mogadishu, Somalia — PHP 8, MySQL and Bootstrap.</p>
+      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" /> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap" />
     </td>
     <td width="50%" valign="top">
-      <h4>📝 <a href="https://github.com/anasabdiwahid/Php-Attendance">Smart Exam Attendance</a></h4>
-      <p>Examination attendance management system built with PHP, MySQL and Tailwind CSS.</p>
-      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
-      <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+      <h3>📝 <a href="https://github.com/anasabdiwahid/Php-Attendance">Smart Exam Attendance</a></h3>
+      <p>Examination attendance management — PHP, MySQL and Tailwind CSS.</p>
+      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" /> <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>📊 <a href="https://github.com/anasabdiwahid/Maraayn-Management-System">Maraayn Management System</a></h4>
-      <p>Management system written in TypeScript.</p>
+      <h3>📊 <a href="https://github.com/anasabdiwahid/Maraayn-Management-System">Maraayn Management System</a></h3>
+      <p>Management system built with TypeScript.</p>
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
     </td>
     <td width="50%" valign="top">
-      <h4>🏛️ <a href="https://github.com/anasabdiwahid/BARWAQO-BANK">Barwaqo Bank</a></h4>
-      <p>Banking web application written in JavaScript.</p>
+      <h3>🏛️ <a href="https://github.com/anasabdiwahid/BARWAQO-BANK">Barwaqo Bank</a></h3>
+      <p>Banking web application built with JavaScript.</p>
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
     </td>
   </tr>
 </table>
 
----
+## 📊 GitHub Analytics
 
-### 📈 GitHub stats
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anasabdiwahid&theme=github_dark" alt="Profile details" width="100%" />
+</p>
 
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=anasabdiwahid&show_icons=true&hide_border=true&bg_color=0D2B24&title_color=D6B66C&icon_color=D6B66C&text_color=F4F5F0&rank_icon=github" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anasabdiwahid&layout=compact&hide_border=true&bg_color=0D2B24&title_color=D6B66C&text_color=F4F5F0&langs_count=6" alt="Top languages" />
-</div>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anasabdiwahid&theme=github_dark" alt="Top languages by repo" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=anasabdiwahid&theme=github_dark&utcOffset=3" alt="Commits by hour" width="49%" />
+</p>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=anasabdiwahid&hide_border=true&background=0D2B24&ring=D6B66C&fire=D6B66C&currStreakLabel=D6B66C&sideLabels=F4F5F0&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=A7C2B8&stroke=1B5246" alt="GitHub streak" />
-</div>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=anasabdiwahid&theme=github_dark" alt="Stats" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=anasabdiwahid&theme=github_dark" alt="Top languages by commit" width="49%" />
+</p>
 
-<div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=anasabdiwahid&bg_color=0D2B24&color=F4F5F0&line=D6B66C&point=FFFFFF&area=true&area_color=D6B66C&hide_border=true" alt="Contribution graph" />
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=anasabdiwahid&theme=github-dark-blue&hide_border=true&background=0D1117&ring=D6B66C&fire=D6B66C&currStreakLabel=D6B66C" alt="GitHub streak" />
+</p>
 
----
+## 🏆 GitHub Trophies
 
-<div align="center">
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=anasabdiwahid&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7" alt="GitHub trophies" />
+</p>
 
-**Let's build something useful together.** Visit my portfolio: **[anazabdiwahid.netlify.app](https://anazabdiwahid.netlify.app/)**
-
-<img src="https://komarev.com/ghpvc/?username=anasabdiwahid&color=123B32&style=flat-square&label=Profile+views" alt="Profile views" />
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:D6B66C,50:123B32,100:0D2B24&height=110&section=footer" alt="" width="100%" />
-
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:D6B66C,50:123B32,100:0D2B24&height=100&section=footer" alt="" width="100%" />
+</p>
