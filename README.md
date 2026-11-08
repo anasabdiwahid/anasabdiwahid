@@ -88,9 +88,9 @@ const anas = {
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap,php,mysql,nodejs,python,flutter&perline=12" alt="Web and app stack" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,php,mysql,nodejs,python,flutter&perline=11" alt="Web and app stack" />
     <br />
-    <img src="https://skillicons.dev/icons?i=c,cpp,cs,arduino,figma,ps,pr,ai,git,github,vscode,netlify&perline=12" alt="Systems, design and tools" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs,arduino,figma,ps,pr,ai,git,github,vscode&perline=11" alt="Systems, design and tools" />
   </a>
 </p>
 
@@ -256,5 +256,5 @@ const anas = {
 ## <img src="https://api.iconify.design/tabler/trophy.svg?color=%23D6B66C" width="26" height="26" align="top" alt="" /> GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=anasabdiwahid&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7" alt="GitHub trophies" />
+  <img src="assets/trophies.svg" alt="Achievements" width="100%" />
 </p>

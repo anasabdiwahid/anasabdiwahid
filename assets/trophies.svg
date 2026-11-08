@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="190" viewBox="0 0 860 190" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif">
+<defs><linearGradient id="g" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#16473C"/><stop offset="1" stop-color="#0D2B24"/></linearGradient>
+<linearGradient id="gold" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#F3DFA2"/><stop offset="1" stop-color="#B8934A"/></linearGradient></defs>
+<g transform="translate(10,10)">
+<rect width="130" height="170" rx="14" fill="url(#g)" stroke="#D6B66C" stroke-opacity="0.55"/>
+<circle cx="112" cy="20" r="11" fill="url(#gold)"/><text x="112" y="24.5" text-anchor="middle" font-size="12" font-weight="800" fill="#0D2B24">S</text>
+<g transform="translate(43,18) scale(1.85)" fill="none" stroke="url(#gold)" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round">
+<path d="M8 21h8M12 17v4M7 4h10M17 4v8a5 5 0 0 1 -10 0v-8"/><circle cx="5" cy="9" r="2"/><circle cx="19" cy="9" r="2"/></g>
+<text x="65" y="112" text-anchor="middle" font-size="26" font-weight="800" fill="#FFFFFF">4+</text>
+<text x="65" y="136" text-anchor="middle" font-size="13" font-weight="700" fill="#D6B66C">Experience</text>
+<text x="65" y="155" text-anchor="middle" font-size="10.5" fill="#A9C4BB">Years building</text>
+</g>
+<g transform="translate(152,10)">
+<rect width="130" height="170" rx="14" fill="url(#g)" stroke="#D6B66C" stroke-opacity="0.55"/>
+<circle cx="112" cy="20" r="11" fill="url(#gold)"/><text x="112" y="24.5" text-anchor="middle" font-size="12" font-weight="800" fill="#0D2B24">S</text>
+<g transform="translate(43,18) scale(1.85)" fill="none" stroke="url(#gold)" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round">
+<path d="M8 21h8M12 17v4M7 4h10M17 4v8a5 5 0 0 1 -10 0v-8"/><circle cx="5" cy="9" r="2"/><circle cx="19" cy="9" r="2"/></g>
+<text x="65" y="112" text-anchor="middle" font-size="26" font-weight="800" fill="#FFFFFF">99+</text>
+<text x="65" y="136" text-anchor="middle" font-size="13" font-weight="700" fill="#D6B66C">Projects</text>
+<text x="65" y="155" text-anchor="middle" font-size="10.5" fill="#A9C4BB">Delivered</text>
+</g>
+<g transform="translate(294,10)">
+<rect width="130" height="170" rx="14" fill="url(#g)" stroke="#D6B66C" stroke-opacity="0.55"/>
+<circle cx="112" cy="20" r="11" fill="url(#gold)"/><text x="112" y="24.5" text-anchor="middle" font-size="12" font-weight="800" fill="#0D2B24">S</text>
+<g transform="translate(43,18) scale(1.85)" fill="none" stroke="url(#gold)" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round">
+<path d="M8 21h8M12 17v4M7 4h10M17 4v8a5 5 0 0 1 -10 0v-8"/><circle cx="5" cy="9" r="2"/><circle cx="19" cy="9" r="2"/></g>
+<text x="65" y="112" text-anchor="middle" font-size="26" font-weight="800" fill="#FFFFFF">99+</text>
+<text x="65" y="136" text-anchor="middle" font-size="13" font-weight="700" fill="#D6B66C">Clients</text>
+<text x="65" y="155" text-anchor="middle" font-size="10.5" fill="#A9C4BB">Happy clients</text>
+</g>
+<g transform="translate(436,10)">
+<rect width="130" height="170" rx="14" fill="url(#g)" stroke="#D6B66C" stroke-opacity="0.55"/>
+<circle cx="112" cy="20" r="11" fill="url(#gold)"/><text x="112" y="24.5" text-anchor="middle" font-size="12" font-weight="800" fill="#0D2B24">A</text>
+<g transform="translate(43,18) scale(1.85)" fill="none" stroke="url(#gold)" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round">
+<path d="M8 21h8M12 17v4M7 4h10M17 4v8a5 5 0 0 1 -10 0v-8"/><circle cx="5" cy="9" r="2"/><circle cx="19" cy="9" r="2"/></g>
+<text x="65" y="112" text-anchor="middle" font-size="26" font-weight="800" fill="#FFFFFF">31</text>
+<text x="65" y="136" text-anchor="middle" font-size="13" font-weight="700" fill="#D6B66C">Repositories</text>
+<text x="65" y="155" text-anchor="middle" font-size="10.5" fill="#A9C4BB">On GitHub</text>
+</g>
+<g transform="translate(578,10)">
+<rect width="130" height="170" rx="14" fill="url(#g)" stroke="#D6B66C" stroke-opacity="0.55"/>
+<circle cx="112" cy="20" r="11" fill="url(#gold)"/><text x="112" y="24.5" text-anchor="middle" font-size="12" font-weight="800" fill="#0D2B24">A</text>
+<g transform="translate(43,18) scale(1.85)" fill="none" stroke="url(#gold)" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round">
+<path d="M8 21h8M12 17v4M7 4h10M17 4v8a5 5 0 0 1 -10 0v-8"/><circle cx="5" cy="9" r="2"/><circle cx="19" cy="9" r="2"/></g>
+<text x="65" y="112" text-anchor="middle" font-size="26" font-weight="800" fill="#FFFFFF">5</text>
+<text x="65" y="136" text-anchor="middle" font-size="13" font-weight="700" fill="#D6B66C">Certificates</text>
+<text x="65" y="155" text-anchor="middle" font-size="10.5" fill="#A9C4BB">NTWeek 2026</text>
+</g>
+<g transform="translate(720,10)">
+<rect width="130" height="170" rx="14" fill="url(#g)" stroke="#D6B66C" stroke-opacity="0.55"/>
+<circle cx="112" cy="20" r="11" fill="url(#gold)"/><text x="112" y="24.5" text-anchor="middle" font-size="12" font-weight="800" fill="#0D2B24">A</text>
+<g transform="translate(43,18) scale(1.85)" fill="none" stroke="url(#gold)" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round">
+<path d="M8 21h8M12 17v4M7 4h10M17 4v8a5 5 0 0 1 -10 0v-8"/><circle cx="5" cy="9" r="2"/><circle cx="19" cy="9" r="2"/></g>
+<text x="65" y="112" text-anchor="middle" font-size="26" font-weight="800" fill="#FFFFFF">4</text>
+<text x="65" y="136" text-anchor="middle" font-size="13" font-weight="700" fill="#D6B66C">Partners</text>
+<text x="65" y="155" text-anchor="middle" font-size="10.5" fill="#A9C4BB">Collaborations</text>
+</g>
+</svg>
